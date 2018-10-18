@@ -1,0 +1,35 @@
+body {
+    background-color: #B0C4DE;
+    font-family: 'Fira Sans', sans-serif;
+}
+
+nav {
+    font-size: 20px;
+    font-family: 'Nunito', sans-serif;
+}
+
+.card {
+    background-color: rgb(0, 221, 207);
+    font-size: 25px;
+    margin: 20px 10px 10px 30px;
+    border-radius: 24px 24px 24px 24px;
+    -moz-border-radius: 24px 24px 24px 24px;
+    -webkit-border-radius: 24px 24px 24px 24px;
+    border: 0px solid #000000; 
+    -webkit-box-shadow: 6px 4px 37px -4px rgba(0,0,0,0.77);
+    -moz-box-shadow: 6px 4px 37px -4px rgba(0,0,0,0.77);
+    box-shadow: 6px 4px 37px -4px rgba(0,0,0,0.77); 
+}
+
+.services {
+    font-size: 15px;
+}
+
+/* .card2 {
+    position: relative;
+    bottom: 180px;
+} */
+
+.busStatement {
+    margin: 5px;
+}
